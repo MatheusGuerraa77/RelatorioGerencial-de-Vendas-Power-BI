@@ -28,4 +28,4 @@ Além das funcionalidades básicas, foi utilizado um design intuitivo com botõe
 Esse projeto foi uma excelente oportunidade para aprimorar habilidades no Power BI, especialmente na criação de relatórios financeiros detalhados e interativos. A utilização de segmentadores, botões de navegação e uma boa estrutura visual trouxe um diferencial, garantindo a navegabilidade do dashboard.
 
 # Link no Power BI:
-- https://app.powerbi.com/groups/me/reports/2d6fb877-c27d-46cf-94b6-b6cff43e1fb2/ReportSection?experience=power-bi
+- [https://app.powerbi.com/groups/me/reports/2d6fb877-c27d-46cf-94b6-b6cff43e1fb2/ReportSection?experience=power-bi](https://app.powerbi.com/links/gWyBENHrw-?ctid=d6c683f9-0389-4220-a2c5-9b5f5b1bc5a4&pbi_source=linkShare)
