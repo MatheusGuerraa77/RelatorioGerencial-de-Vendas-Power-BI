@@ -12,19 +12,19 @@ O primeiro passo foi acessar os dados disponibilizados no [repositório GitHub](
 - **Gráficos e Visuais**: Foram criados gráficos dinâmicos como tabelas, gráficos de barras e de linha, representando os principais indicadores financeiros, como receita, lucro e desempenho por regiões e segmentos.
 - **Botões de navegação**: Foram inseridos botões que permitem a transição entre as diferentes páginas do relatório e facilitam a interação do usuário com os dados.
 
-### 3. Segmentadores e Filtros
+### 3. Segmentadores e Filtros:
 Foram implementados segmentadores que permitem a filtragem de dados por regiões e categorias específicas. Esses filtros tornam o relatório mais dinâmico, permitindo que o usuário visualize diferentes aspectos dos dados conforme suas necessidades.
 
-### 4. Criação da segunda página
+### 4. Criação da segunda página:
 A segunda página do relatório foi construída para expandir a análise com novos gráficos e visuais, mantendo a consistência do layout da primeira página. A ideia foi aprofundar a análise de alguns KPIs, como margens de lucro e vendas por categoria de produto.
 
 ### 5. Publicação no Power BI Service
 Após a conclusão do relatório, o projeto foi publicado no Power BI Service para que o dashboard pudesse ser acessado online e compartilhado com outras pessoas.
 
-### 6. Customizações adicionais
+### 6. Customizações adicionais:
 Além das funcionalidades básicas, foi utilizado um design intuitivo com botões interativos e segmentadores de dados avançados, permitindo que o usuário altere a visualização dos gráficos conforme o interesse.
 
-## Conclusão
+## Conclusão:
 Esse projeto foi uma excelente oportunidade para aprimorar habilidades no Power BI, especialmente na criação de relatórios financeiros detalhados e interativos. A utilização de segmentadores, botões de navegação e uma boa estrutura visual trouxe um diferencial, garantindo a navegabilidade do dashboard.
 
 # Link no Power BI:
