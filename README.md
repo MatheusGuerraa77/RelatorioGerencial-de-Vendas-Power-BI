@@ -1,6 +1,6 @@
 # Criação de Relatório Gerencial de Vendas com Power BI
 
-Este projeto teve como objetivo desenvolver um dashboard interativo utilizando a amostra financeira disponível no repositório GitHub fornecido. O foco foi construir um relatório bem estruturado, funcional e visualmente atraente, voltado para a análise de dados financeiros.
+Este projeto teve como objetivo desenvolver um dashboard interativo utilizando a amostra financeira disponível no repositório GitHub fornecido. O foco foi construir um relatório bem estruturado, funcional e visualmente atraente, voltado para a análise de dados financeiros!
 
 ## Principais etapas do projeto:
 
