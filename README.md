@@ -19,7 +19,7 @@ Foram implementados segmentadores que permitem a filtragem de dados por regiões
 A segunda página do relatório foi construída para expandir a análise com novos gráficos e visuais, mantendo a consistência do layout da primeira página. A ideia foi aprofundar a análise de alguns KPIs, como margens de lucro e vendas por categoria de produto.
 
 ### 5. Publicação no Power BI Service
-Após a conclusão do relatório, o projeto foi publicado no Power BI Service para que o dashboard pudesse ser acessado online e compartilhado com outras pessoas.
+Após a conclusão do relatório, o projeto foi publicado no Power BI Service para que o dashboard pudesse ser acessado online e compartilhado com outras pessoas!
 
 ### 6. Customizações adicionais:
 Além das funcionalidades básicas, foi utilizado um design intuitivo com botões interativos e segmentadores de dados avançados, permitindo que o usuário altere a visualização dos gráficos conforme o interesse.
